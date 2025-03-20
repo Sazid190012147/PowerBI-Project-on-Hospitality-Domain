@@ -141,9 +141,10 @@ The month of **May** sees the highest revenue generation overall, marking it as 
 
 ## 🖼️ Screenshots
 
-![Dashboard Screenshot](Screenshots/AtliQ Hospitality Analysis Part 01.png)
+![Dashboard Screenshot](Screenshots/AtliQ%20Hospitality%20Analysis%20Part%2001.png)
 
-![Dashboard Screenshot](Screenshots/AtliQ Hospitality Analysis Part 01.png)
+![Dashboard Screenshot](Screenshots/AtliQ%20Hospitality%20Analysis%20Part%2002.png)
+
 
 
 
